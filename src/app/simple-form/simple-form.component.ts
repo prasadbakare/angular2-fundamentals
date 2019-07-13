@@ -13,6 +13,7 @@ import { Message } from '@angular/compiler/src/i18n/i18n_ast';
        display:flex;
        flex-direction:column;
      }
+     
 
      * {
        font-family: monospace;
