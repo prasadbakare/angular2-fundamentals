@@ -1,5 +1,5 @@
 function getInitials(name) {
   return name.split(' ')
-    .map(word => word.chatAt(0).toUpperCase())
+    .map(word => word.chatAt(0))
     .join('');
 }
