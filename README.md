@@ -93,5 +93,8 @@ export class AppModule { }
 
 ```
 
-
+```
+ getURLSlug('My Favourite Song');
+ //=> 'my-favorite-songs'
+```
 
