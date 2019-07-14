@@ -1,4 +1,4 @@
-A Angular project to use normal day to day functions
+A Angular project to use normal day to day functions.
 
 
 #Examples
